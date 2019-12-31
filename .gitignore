@@ -1,5 +1,6 @@
 .DS_Store
 themes/
+resources/
 public/
 .idea/*
 .vscode/*
