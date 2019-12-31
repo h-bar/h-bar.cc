@@ -43,16 +43,12 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "portfolio/"
+  url = ""
   home = true
 
   [[params.navlinks]]
   name = "About"
   url = "about/"
-
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
 
   [params.social]
   facebook      = "full page or profile url in facebook"
