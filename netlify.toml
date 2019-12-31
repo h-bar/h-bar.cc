@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "me.h-bar.cc"
+  to = "about/"
+  status = 301
+  force = false
+  query = {path = ":path"}
