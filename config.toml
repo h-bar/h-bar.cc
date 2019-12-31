@@ -1,4 +1,4 @@
-baseurl = "http://h-bar.cc"
+baseurl = "https://h-bar.cc"
 title = "Welcome to h-bar"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
