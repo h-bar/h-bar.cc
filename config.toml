@@ -11,10 +11,11 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "Things I learned"
+  description = "Good good study, Day day up!"
   # copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "Good good study, Day day up!"
+    "A place to write donw what I've learned.",
+    "So that my (hopfully soon-to-come) girlfiend knows what I know '_>`"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
